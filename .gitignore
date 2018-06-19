@@ -1,0 +1,9 @@
+# Environment files
+.DS_Store
+
+# Object files
+*.o
+*.d
+
+# Swap files
+*.swp
